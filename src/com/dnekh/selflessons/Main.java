@@ -10,7 +10,6 @@ public class Main {
 
         Employee driver = new Employee("Ivan", 24, 30000, 1000);
         Employee guard = new Employee("Misha", 34, 45000, 3000);
-
         guard.setName("Dmitrii");
 
 
